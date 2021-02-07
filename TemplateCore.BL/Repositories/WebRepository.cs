@@ -4,7 +4,7 @@ using System;
 using System.Linq;
 using System.Linq.Expressions;
 
-namespace TemplateCore.BL
+namespace TemplateCore.BL.Repositories
 {
     public class WebRepository<T> where T : class
     {

@@ -17,10 +17,11 @@ namespace TemplateCore.DAL.Contexts
 
             //modelBuilder.Entity<ProductCategory>().HasKey(hk => new { hk.ProductID, hk.CategoryID });
 
-            ////SEED DATA
-            //modelBuilder.Entity<Admin>().HasData(new Admin { EmailAddress = "slmngoktas@gmail.com", ID = 1, Name = "Selman", Surname = "GÖKTAŞ", Password = "123456" });
+            //SEED DATA
+            modelBuilder.Entity<Admin>().HasData(new Admin { EmailAddress = "slmngoktas@gmail.com", ID = 1, Name = "Selman", Surname = "GÖKTAŞ", Password = "123456" });
         }
         public DbSet<Test> Test { get; set; }
+        public DbSet<Admin> Admin { get; set; }
 
        
        
