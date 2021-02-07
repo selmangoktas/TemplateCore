@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "t1lp0H03B6IkbkrFfkRJcsN0I9WVGBpCkIq4T0P7s8b28rPwwdAU4ihSM0H2psgZG4zNuEb3Bb7GE/wvO1v6yQ==",
+  "success": true,
+  "projectFilePath": "D:\\calismalar\\TemplateCore\\TemplateCore.WebAPI\\TemplateCore.WebAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SELMAN\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\SELMAN\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\SELMAN\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\SELMAN\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\SELMAN\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\SELMAN\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}

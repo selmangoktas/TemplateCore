@@ -1,0 +1,12 @@
+D:\calismalar\TemplateCore\TemplateCore.BL\bin\Debug\netcoreapp3.1\TemplateCore.BL.deps.json
+D:\calismalar\TemplateCore\TemplateCore.BL\bin\Debug\netcoreapp3.1\TemplateCore.BL.dll
+D:\calismalar\TemplateCore\TemplateCore.BL\bin\Debug\netcoreapp3.1\TemplateCore.BL.pdb
+D:\calismalar\TemplateCore\TemplateCore.BL\bin\Debug\netcoreapp3.1\TemplateCore.DAL.dll
+D:\calismalar\TemplateCore\TemplateCore.BL\bin\Debug\netcoreapp3.1\TemplateCore.DAL.pdb
+D:\calismalar\TemplateCore\TemplateCore.BL\obj\Debug\netcoreapp3.1\TemplateCore.BL.csprojAssemblyReference.cache
+D:\calismalar\TemplateCore\TemplateCore.BL\obj\Debug\netcoreapp3.1\TemplateCore.BL.AssemblyInfoInputs.cache
+D:\calismalar\TemplateCore\TemplateCore.BL\obj\Debug\netcoreapp3.1\TemplateCore.BL.AssemblyInfo.cs
+D:\calismalar\TemplateCore\TemplateCore.BL\obj\Debug\netcoreapp3.1\TemplateCore.BL.csproj.CoreCompileInputs.cache
+D:\calismalar\TemplateCore\TemplateCore.BL\obj\Debug\netcoreapp3.1\TemplateCore.BL.csproj.CopyComplete
+D:\calismalar\TemplateCore\TemplateCore.BL\obj\Debug\netcoreapp3.1\TemplateCore.BL.dll
+D:\calismalar\TemplateCore\TemplateCore.BL\obj\Debug\netcoreapp3.1\TemplateCore.BL.pdb
