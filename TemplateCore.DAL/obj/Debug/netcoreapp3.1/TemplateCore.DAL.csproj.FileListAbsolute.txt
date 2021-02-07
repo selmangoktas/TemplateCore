@@ -1,9 +1,0 @@
-D:\calismalar\TemplateCore\TemplateCore.DAL\bin\Debug\netcoreapp3.1\TemplateCore.DAL.deps.json
-D:\calismalar\TemplateCore\TemplateCore.DAL\bin\Debug\netcoreapp3.1\TemplateCore.DAL.dll
-D:\calismalar\TemplateCore\TemplateCore.DAL\bin\Debug\netcoreapp3.1\TemplateCore.DAL.pdb
-D:\calismalar\TemplateCore\TemplateCore.DAL\obj\Debug\netcoreapp3.1\TemplateCore.DAL.csprojAssemblyReference.cache
-D:\calismalar\TemplateCore\TemplateCore.DAL\obj\Debug\netcoreapp3.1\TemplateCore.DAL.AssemblyInfoInputs.cache
-D:\calismalar\TemplateCore\TemplateCore.DAL\obj\Debug\netcoreapp3.1\TemplateCore.DAL.AssemblyInfo.cs
-D:\calismalar\TemplateCore\TemplateCore.DAL\obj\Debug\netcoreapp3.1\TemplateCore.DAL.csproj.CoreCompileInputs.cache
-D:\calismalar\TemplateCore\TemplateCore.DAL\obj\Debug\netcoreapp3.1\TemplateCore.DAL.dll
-D:\calismalar\TemplateCore\TemplateCore.DAL\obj\Debug\netcoreapp3.1\TemplateCore.DAL.pdb
