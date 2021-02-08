@@ -10,7 +10,7 @@ using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using TemplateCore.WebUI.Tools;
-namespace Divisima.WebUI.Areas.admin.Controllers
+namespace TemplateCore.WebUI.Areas.admin.Controllers
 {
     [Area("admin"), Route("/admin/[controller]/[action]"), Authorize]
     public class HomeController : Controller
@@ -42,7 +42,7 @@ namespace Divisima.WebUI.Areas.admin.Controllers
             Admin admin = adminRepo.GetBy(g => g.EmailAddress == model.EmailAddress && g.Password == password) ?? null;
             if (admin != null)
             {
-                ClaimsIdentity claimsIdentity = new ClaimsIdentity(new List<Claim> { new Claim(ClaimTypes.Email, admin.EmailAddress), new Claim(ClaimTypes.PrimarySid, admin.ID.ToString()), new Claim(ClaimTypes.Name, admin.Name + " " + admin.Surname) }, "Divisima");
+                ClaimsIdentity claimsIdentity = new ClaimsIdentity(new List<Claim> { new Claim(ClaimTypes.Email, admin.EmailAddress), new Claim(ClaimTypes.PrimarySid, admin.ID.ToString()), new Claim(ClaimTypes.Name, admin.Name + " " + admin.Surname) }, "TemplateCore");
                 ClaimsPrincipal claimsPrincipal = new ClaimsPrincipal(claimsIdentity);
                 await HttpContext.SignInAsync(CookieAuthenticationDefaults.AuthenticationScheme, claimsPrincipal, new AuthenticationProperties() { IsPersistent = true });
 
